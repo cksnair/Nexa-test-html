@@ -155,7 +155,7 @@ footer .menu-top li{ text-align: center; display: padding-top: 1em;}
 
 }
 @media (min-width: 767px) {
-.header_top .tp-nav{order:initial;position:relative;max-width:initial;border:0;padding:0;display:inline-block}
+.header_top .tp-nav{order:initial;position:relative;max-width:initial;border:0;padding:0;display:inline-block !important}
 .menu-top li{display:inline-block}
 .header_top .t-icn{-ms-flex:0 0 5.4%;flex:0 0 5.4%;max-width:5.4%;padding:30px 0}
 .t-icn .tgl{padding-left:0}
